@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="distmipjava">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/doc/html/en-US/refjavacplex/html" />
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/doc/html/en-US/refjavacpoptimizer/html" />
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/doc/html/en-US/refjavaopl/html" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/cplex/examples/src/distmipjava" />
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/cplex/examples/src/java" />
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/cplex/examples/src/remotejava" />
+      <root url="file:///private/var/root/Applications/IBM/ILOG/CPLEX_Studio_Community127/cpoptimizer/examples/src/java" />
+    </SOURCES>
+  </library>
+</component>
